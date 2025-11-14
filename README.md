@@ -117,15 +117,14 @@ Run all versions on the same model and compare outputs.
 
 Record performance using a table like this ↓
 
-📊 Example Prompt Testing Table
-Version	Prompt	Temp	Output Quality	Notes
-v1	150 words on AI in education	0.7	Basic	Generic response
-v2	Friendly tone + structure	0.7	Better	More engaging
-v3	Role: Expert writer	0.3	Excellent	Professional & concise
-v4	Story-tone	1.0	Creative	But lacked depth
-v5	Bullets + examples	0.7	Great	Highly actionable
-🏁 Key Takeaways
-⭐ Structure is Power
+| Version | Prompt                       | Temp | Output Quality | Notes                  |
+| ------- | ---------------------------- | ---- | -------------- | ---------------------- |
+| v1      | 150 words on AI in education | 0.7  | Basic          | Generic response       |
+| v2      | Friendly tone + structure    | 0.7  | Better         | More engaging          |
+| v3      | Role: Expert writer          | 0.3  | Excellent      | Professional & concise |
+| v4      | Story-tone                   | 1.0  | Creative       | But lacked depth       |
+| v5      | Bullets + examples           | 0.7  | Great          | Highly actionable      |
+
 
 Use CoT, RAG, and clear formatting to guide model reasoning.
 
