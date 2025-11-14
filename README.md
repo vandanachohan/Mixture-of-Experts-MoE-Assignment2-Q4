@@ -135,6 +135,7 @@ MoE architectures provide high-capacity models with optimized performance.
 ⭐ Test Systematically
 
 A prompt framework helps you understand what works—and why.
+https://docs.google.com/document/d/1sPGMu0enfMTEpOJRuf4oYH0i99qVDBLQD304FJZ5yCU/edit?usp=sharing
 
 📄 Files Included
 
